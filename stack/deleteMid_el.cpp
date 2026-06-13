@@ -2,8 +2,8 @@
 // Platform: CodeStudio
 // Difficulty: Medium
 // Approach: Recursively
-// Time Complexity: O(max(1)
-// Space Complexity: O(max(1)
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
 
 #include <iostream>
 #include<stack>
