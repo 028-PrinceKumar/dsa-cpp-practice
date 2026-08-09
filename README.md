@@ -40,6 +40,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * LeetCode
 * Codeforces
 * HackerRank
+* GeeksforGeeks
 
 # Note
 
