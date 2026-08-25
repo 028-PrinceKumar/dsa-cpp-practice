@@ -1,6 +1,6 @@
 // Problem: Kth Largest Sum of Subarray
 // Platform:Coding Ninjas
-// Link:https://www.naukri.com/code360/problems/merge-k-sorted-lists_992772
+// Link:https:https://www.naukri.com/code360/problems/k-th-largest-sum-contiguous-subarray_920398
 // Difficulty: Medium
 // Approach:Iterative
 // Time Complexity: O(n^2)
