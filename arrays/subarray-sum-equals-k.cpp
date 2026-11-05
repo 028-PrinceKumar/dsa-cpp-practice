@@ -1,3 +1,10 @@
+// Problem: Contains Duplicates
+// Platform: LeetCode
+// Link: https://leetcode.com/problems/subarray-sum-equals-k/description/
+// Difficulty: Medium
+// Approach: Mapping
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 
 class Solution {
 public:
